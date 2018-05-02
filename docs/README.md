@@ -28,7 +28,7 @@ posts:
   image: /post_1.jpg
   timestamp: 2018.05.02 12:00
 footer: MIT Licensed | Copyright © 2018-present @nakamura0828
-githubUrl: https://github.com/nakanakamu0828/techtalk
+githubUrl: https://github.com/nakanakamu0828/custom-layout-vuepress
 twitterUrl: https://twitter.com/nakanakamu0828
 email: yuuki.nakamura.0828@gmail.com
 ---

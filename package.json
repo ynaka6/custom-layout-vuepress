@@ -1,0 +1,13 @@
+{
+  "name": "custom-layout-vuepress",
+  "version": "1.0.0",
+  "description": "customize layout for vuepress",
+  "author": "yuuki.nakamura.0828@gmail.com",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
